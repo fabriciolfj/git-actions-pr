@@ -1,3 +1,3 @@
-workspaces { name = "staging" }
+workspaces { name = "gitpr" }
 hostname     = "app.terraform.io"
-organization = "practicalgitops"
+organization = "fabriciolfj"
