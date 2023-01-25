@@ -1,11 +1,5 @@
 # Practical GitOps
-
-## Chapter 6 - Practical GitOps
-
-## Infra
-
-The infra folder contains all the terraform files that need to be executed
-
-## App
-
-The app folder contains the source code of the application that is being deployed on the infrastructure.
+- para funcionar, precisamos das seguintes variavies no secret do git:
+  - DOCKERHUB_TOKEN
+  - DOCKERHUB_USERNAME
+  - TF_API_TOKEN
